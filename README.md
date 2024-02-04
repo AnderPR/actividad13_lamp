@@ -61,3 +61,9 @@ Finalizada esta configuracion que hemos visto en las 3 capturas anteriores lo qu
 Finalmente al introducir en usuario y contraseña nos introducira dentro del gestor de la base de datos.   
 
 ![Imagen](img/15.PNG)   
+
+Comprobaciones:   
+
+![Imagen](img/infophp.png)   
+
+![Imagen](img/indexphp.png)   
